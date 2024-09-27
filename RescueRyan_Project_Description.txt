@@ -1,0 +1,38 @@
+
+# RescueRyan - Project Overview
+
+## Introduction
+RescueRyan is a text-based strategy game developed in Python, where the player takes on the role of a soldier on a critical mission. The objective is to guide Corporal Ryan through a labyrinth filled with dangers, ensuring his safe escape from enemy-infested territory. The game combines elements of strategy, quick thinking, and a bit of luck, creating an engaging and challenging experience for players.
+
+## Storyline
+The game is set during a fictional World War II scenario. Corporal Ryan, a brave soldier, finds himself trapped behind enemy lines in a Nazi-occupied zone. The player, acting as Ryan’s commander, must navigate him through a maze-like battlefield filled with hostile forces. The mission is clear: evade or confront enemies, find the safest path, and lead Ryan to safety. If Ryan fails to escape, he is considered fallen in combat.
+
+## Gameplay Mechanics
+- **Dynamic Board Rendering:** The game employs dynamic board rendering, making the movement of Ryan and the enemies appear fluid. This enhances the immersion and gives a real-time feel to the gameplay.
+- **Maze Navigation:** The game’s core challenge lies in navigating the maze. Each move must be carefully planned to avoid enemy encounters while seeking the quickest route to freedom.
+- **Enemy Interaction:** Enemies patrol certain areas of the maze. Players must decide whether to evade or confront them, adding a layer of strategy to the game.
+- **Random Elements:** Certain elements of the game are randomized, ensuring that each playthrough offers a unique challenge.
+
+## Technical Details
+- **Language:** Python
+- **Dependencies:** The game uses standard Python libraries, ensuring it can be run in most environments without additional installations.
+- **Platform:** The game is designed to be played in a terminal or command-line interface, making it lightweight and accessible.
+
+## How to Play
+1. Run the `final_game.py` script in your terminal.
+2. Follow the on-screen instructions to guide Corporal Ryan through the maze.
+3. Make strategic decisions to avoid enemies and find the escape route.
+4. Successfully navigate Ryan to safety to win the game.
+
+## Future Enhancements
+- **AI Improvements:** Enhancing enemy AI to make them more unpredictable and challenging.
+- **Additional Levels:** Introducing multiple levels with increasing difficulty.
+- **Multiplayer Mode:** Adding a competitive mode where players can race to save Ryan faster than their opponents.
+
+## Contribution
+Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to fork the repository and submit a pull request.
+
+## License
+This project is licensed under the ITESM License.
+
+Enjoy the game, and good luck with your mission to Rescue Ryan!
