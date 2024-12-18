@@ -1,4 +1,4 @@
-# Juego Reto
+# Juego Reto -> Salvando al Soldado Ryan
 # Luis Andrés Casillas                A01645008
 import os
 import random  
