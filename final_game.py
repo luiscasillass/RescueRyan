@@ -7,7 +7,7 @@ import random
 print("¡Atención soldado! Te habla tu capitán: ")
 print("\n El cabo Ryan está atrapado en medio de infantería nazi y tu misión es ayudarlo a escapar con vida \n Si el soldado no tiene escapatoria, se le considerará caído en combate. ")
 
-# Esta funcion mostrara el tablero donde estara Ryan y los nazis
+# def tablero mostrara el tablero de juego
 def tablero(laberinto, lugar_ryan):
     # Las librerias os y os.system se utilizan hacer que el avance de Ryan se vea fluido y no se tenga que imprimir todo el tablero de nuevo. Esta libreria "borra" o limpia el tablero 
     os.system('cls' if os.name == 'nt' else 'clear')
